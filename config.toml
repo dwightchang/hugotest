@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://dwightchang.github.io/hugotest/"
 languageCode = "en"
 defaultContentLanguage = "zh-tw"                          # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
